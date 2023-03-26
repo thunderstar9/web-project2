@@ -131,19 +131,21 @@
     display: block;
     
     }
-    .Rechercher{
-     background-color: rgb(95, 95, 95);
+    .search_bar{
+     
      height: 70px;
-     
-     
      display: flex;
+     background-color: black;
 
      
     }
     
 .search{
-display: flex;
+    
+    display: flex;
     margin: auto;
+
+    
 }
 
 /* Style buttons */
@@ -160,3 +162,17 @@ display: flex;
   .btn:hover {
     background-color: rgb(224, 7, 0);
   }
+  .authentifier{
+    padding-right: 20px;
+
+  }
+  .login:hover{
+    text-decoration: underline;
+  }
+  .search_input {
+    width: 400px;
+ }
+ .login{
+    color: white;
+    font-size: 20px;
+ }
