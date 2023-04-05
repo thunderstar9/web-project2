@@ -56,14 +56,14 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Login and Registration Form Example</title>
+  <title>Login and Registration Form </title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'><link rel="stylesheet" href="style-login.css">
 
 </head>
 <body>
-<!-- partial:index.partial.html -->
+
 <nav class="main-nav">
 	<ul>
 		<li><a class="signin" href="#0">Sign in</a></li>
@@ -134,7 +134,7 @@
 					</p>
 
 					<p class="fieldset">
-						<input class="full-width has-padding" type="submit" value="Create account">
+						<input  type="submit" value="Create account">
 					</p>
 				</form>
 
