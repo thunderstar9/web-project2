@@ -97,7 +97,7 @@
 						<input type="checkbox" id="remember-me" checked>
 						<label for="remember-me">Remember me</label>
 					</p>
-
+					<i class="fa-solid fa-cart-shopping"></i>
 					<p class="fieldset">
 						<input class="full-width" type="submit" value="Login">
 					</p>
